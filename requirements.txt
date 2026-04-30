@@ -1,0 +1,8 @@
+requests
+selenium
+pytest
+pytest-html
+pytest-json
+pytest-cov
+openpyxl
+webdriver-manager
